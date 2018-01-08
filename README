@@ -1,0 +1,11 @@
+This directory contains a collection of short programs
+that are designed to explore the Poisson distribution
+via experimentaiton
+
+To complie the programs you will need:
+1. CMake
+2. GNU Scientific Library
+
+License: GNU
+
+Caution: Use at your own risk -- no warranty implied or expressed
